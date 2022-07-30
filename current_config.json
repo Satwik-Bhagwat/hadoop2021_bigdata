@@ -11,6 +11,6 @@
     "namenode_checkpoints": "/home/$USER/NAMENODE/CHECKPOINTS/",
     "fs_path": "/home/$USER/DFS/FILE_SYSTEM/",
     "dfs_setup_config": "/home/$USER/DFS/setup.json",
-    "secondary_namenode_path": "/home/pes1ug19cs191/SECONDARYNAMENODE",
+    "secondary_namenode_path": "/home/$USER/SECONDARYNAMENODE",
     "editlog_path": "/home/satwik/EDITLOG"
 }
